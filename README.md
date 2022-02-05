@@ -9,7 +9,6 @@
 
 - ⚡ Fun fact **I love music and stargazing**
 
-<h3 align="left">Connect with me: abhinavmodi07@gmail.com</h3>
 <p align="left">
 </p>
 
