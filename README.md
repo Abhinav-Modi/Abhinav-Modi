@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Abhinav
+# Hi, I'm Abhinav
 
-## 💻 Passionate Software Engineer | 🎵 Part-time Musician | ✍️ Writer
+## 💻 Passionate Software Engineer | 🎵 Part-time Musician & ✍️ Writer
 
 I'm a software engineer who thrives on building scalable systems. 
 
