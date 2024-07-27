@@ -12,7 +12,7 @@ I'm a software engineer who thrives on building scalable systems.
   ☁️ **DevOps**
         - Terraform, Docker, Azure
 
-### 🌱 Currently Learning
+### Currently Learning
   - .NET & C#
   - Next.js
   - System Design
