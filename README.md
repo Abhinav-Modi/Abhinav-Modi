@@ -15,34 +15,52 @@ A Software Engineer with 2 years of coding experience (6 months in the professio
 
 ## Technical Skillset
 
-### Frontend
-- **HTML & CSS**
-- **Tailwind**
-- **React**
-- **Next.js**
+<div align="center ">
 
-### Backend
-- **Node.js** & **Express.js**
-- **.Net**
+<table style="width: 100%; ">
+  <tr>
+    <td style="padding: 10px; vertical-align: top; text-align: left;">
+      <strong >Frontend</strong><br>
+      - HTML & CSS<br>
+      - Tailwind<br>
+      - React<br>
+      - Next.js
+    </td>
+    <td style="padding: 10px; vertical-align: top; text-align: left;">
+      <strong>Backend</strong><br>
+      - Node.js & Express.js<br>
+      - .Net
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; vertical-align: top; text-align: left;">
+      <strong>Databases</strong><br>
+      - MongoDB<br>
+      - SQL<br>
+      - PostgreSQL
+    </td>
+    <td style="padding: 10px; vertical-align: top; text-align: left;">
+      <strong>Programming Languages</strong><br>
+      - JavaScript<br>
+      - Python<br>
+      - C#<br>
+      - Java
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding: 10px; vertical-align: top; text-align: left;">
+      <strong>DevOps & Cloud</strong><br>
+      - Terraform<br>
+      - YAML<br>
+      - Docker<br>
+      - Kubernetes<br>
+      - Azure Cloud<br>
+      - AWS
+    </td>
+  </tr>
+</table>
 
-### Databases
-- **MongoDB**
-- **SQL**
-- **PostgreSQL**
-
-### Programming Languages
-- **JavaScript**
-- **Python**
-- **C#**
-- **Java**
-
-### DevOps & Cloud
-- **Terraform**
-- **YAML**
-- **Docker**
-- **Kubernetes**
-- **Azure Cloud**
-- **AWS**
+</div>
 
 
 ---
